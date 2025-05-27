@@ -10,3 +10,8 @@ https://github.com/granQ/ReforgerSatGenerator
 
 Aphex123 Reforger-Satmap-Gen (Used this tool)
 https://github.com/Aphex123/Reforger-Satmap-Gen
+
+My link to the textures in Aphex123's tool that I renamed. There are additional textures in this folder that are from PolyHaven that I use in my map. You can leave them, delete them, or if you want to try using the textures they are in my "SFG Terrain Textures" mod in the workbench. The credit of the additional textures go to the authors on PolyHaven. 
+
+
+https://github.com/swampfoxgaming42424/SatMapGen_Textures/tree/main
